@@ -49,7 +49,7 @@
 			this.tabControl1.Location = new System.Drawing.Point(0, 0);
 			this.tabControl1.Name = "tabControl1";
 			this.tabControl1.SelectedIndex = 0;
-			this.tabControl1.Size = new System.Drawing.Size(1144, 733);
+			this.tabControl1.Size = new System.Drawing.Size(1129, 769);
 			this.tabControl1.TabIndex = 0;
 			// 
 			// tabPage1
@@ -60,7 +60,7 @@
 			this.tabPage1.Location = new System.Drawing.Point(10, 48);
 			this.tabPage1.Name = "tabPage1";
 			this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-			this.tabPage1.Size = new System.Drawing.Size(1124, 675);
+			this.tabPage1.Size = new System.Drawing.Size(1109, 711);
 			this.tabPage1.TabIndex = 0;
 			this.tabPage1.Text = "tabPage1";
 			this.tabPage1.UseVisualStyleBackColor = true;
@@ -68,38 +68,42 @@
 			// panel1
 			// 
 			this.panel1.AutoScroll = true;
-			this.panel1.AutoScrollMinSize = new System.Drawing.Size(53, 30);
+			this.panel1.AutoScrollMinSize = new System.Drawing.Size(10, 10);
 			this.panel1.Controls.Add(this.richTextBox1);
 			this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
 			this.panel1.Location = new System.Drawing.Point(3, 3);
 			this.panel1.Name = "panel1";
-			this.panel1.Size = new System.Drawing.Size(697, 669);
+			this.panel1.Size = new System.Drawing.Size(697, 662);
 			this.panel1.TabIndex = 0;
 			// 
 			// richTextBox1
 			// 
 			this.richTextBox1.BackColor = System.Drawing.SystemColors.Highlight;
+			this.richTextBox1.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.richTextBox1.Location = new System.Drawing.Point(0, 0);
 			this.richTextBox1.Name = "richTextBox1";
-			this.richTextBox1.Size = new System.Drawing.Size(697, 669);
+			this.richTextBox1.Size = new System.Drawing.Size(697, 662);
 			this.richTextBox1.TabIndex = 0;
 			this.richTextBox1.Text = "";
 			// 
 			// panel2
 			// 
+			this.panel2.AutoScroll = true;
+			this.panel2.AutoScrollMinSize = new System.Drawing.Size(10, 10);
 			this.panel2.Controls.Add(this.richTextBox2);
 			this.panel2.Dock = System.Windows.Forms.DockStyle.Right;
-			this.panel2.Location = new System.Drawing.Point(702, 3);
+			this.panel2.Location = new System.Drawing.Point(697, 3);
 			this.panel2.Name = "panel2";
-			this.panel2.Size = new System.Drawing.Size(419, 669);
+			this.panel2.Size = new System.Drawing.Size(419, 662);
 			this.panel2.TabIndex = 1;
 			// 
 			// richTextBox2
 			// 
 			this.richTextBox2.BackColor = System.Drawing.Color.IndianRed;
+			this.richTextBox2.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.richTextBox2.Location = new System.Drawing.Point(0, 0);
 			this.richTextBox2.Name = "richTextBox2";
-			this.richTextBox2.Size = new System.Drawing.Size(419, 669);
+			this.richTextBox2.Size = new System.Drawing.Size(419, 662);
 			this.richTextBox2.TabIndex = 0;
 			this.richTextBox2.Text = "";
 			// 
@@ -109,18 +113,18 @@
 			this.tabPage2.Location = new System.Drawing.Point(10, 48);
 			this.tabPage2.Name = "tabPage2";
 			this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-			this.tabPage2.Size = new System.Drawing.Size(1124, 675);
+			this.tabPage2.Size = new System.Drawing.Size(1223, 1085);
 			this.tabPage2.TabIndex = 1;
 			this.tabPage2.Text = "tabPage2";
 			this.tabPage2.UseVisualStyleBackColor = true;
 			// 
-			// Form1
+			// Form2
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(1144, 733);
+			this.ClientSize = new System.Drawing.Size(1129, 769);
 			this.Controls.Add(this.tabControl1);
-			this.Name = "Form1";
+			this.Name = "Form2";
 			this.Text = "Form1";
 			this.tabControl1.ResumeLayout(false);
 			this.tabPage1.ResumeLayout(false);
