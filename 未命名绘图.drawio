@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-18T14:14:36.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="zPl4Co0U6hk3Kt_EC_X1" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-18T14:15:20.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="4Y8zy4k9yS5k-nEB-83-" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1235" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="Queue AR Invoice / Credit Note &lt;br&gt;for transmission if necessary" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="HtMYwvInf2GWWzEo8MSv-12" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="Queue AR Invoice(s) / Credit Note(s)&lt;br&gt;for transmission if necessary" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="HtMYwvInf2GWWzEo8MSv-12" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
           <mxGeometry x="-0.0044" relative="1" as="geometry">
             <mxPoint x="260" y="150" as="sourcePoint" />
             <Array as="points">
@@ -23,10 +23,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="54" y="130" width="30" height="60" as="geometry" />
+          <mxGeometry x="22" y="130" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-3" value="Create single or multiple&amp;nbsp;&lt;br&gt;AR Invoice / Credit Note" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" target="HtMYwvInf2GWWzEo8MSv-13" edge="1" source="HtMYwvInf2GWWzEo8MSv-1">
-          <mxGeometry x="0.0071" relative="1" as="geometry">
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-3" value="Create single or multiple&amp;nbsp;&lt;br&gt;AR Invoice(s) / Credit Note(s)" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" target="HtMYwvInf2GWWzEo8MSv-13" edge="1" source="HtMYwvInf2GWWzEo8MSv-1">
+          <mxGeometry x="0.0068" relative="1" as="geometry">
             <mxPoint x="190" y="140" as="sourcePoint" />
             <mxPoint x="250" y="155" as="targetPoint" />
             <Array as="points">
