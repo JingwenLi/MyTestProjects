@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-18T15:48:07.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="6_jgUfmKZiAoedjzcnRV" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-18T15:48:48.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="rcf5JTeW6NMo-35h8bIX" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2085" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -129,6 +129,14 @@
         <mxCell id="HtMYwvInf2GWWzEo8MSv-45" value="1.Process the returned results&lt;br&gt;2.&amp;nbsp;Build the message returned to CW1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HtMYwvInf2GWWzEo8MSv-44">
           <mxGeometry x="-0.4311" y="-5" relative="1" as="geometry">
             <mxPoint x="-15" y="75" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-55" value="EKR" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-56" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
