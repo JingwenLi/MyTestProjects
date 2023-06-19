@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T05:00:22.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="SS5F3lsqArXPudc055CG" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T05:01:11.128Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="O0xkb_9xkUZEflHODGfh" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1900" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="882" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,15 +52,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-78" value="4. Perform XSD validation&lt;br&gt;(GenerateInvoiceRequestPayloadValidation)" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="aM9ryv3xv72pqoxQDRHE-5" edge="1">
-          <mxGeometry x="0.0526" y="115" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="55" y="438" as="sourcePoint" />
-            <mxPoint x="55" y="458" as="targetPoint" />
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-78" value="4. Perform XSD validation&lt;br&gt;(GenerateInvoiceRequestPayloadValidation)" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;align=left;" parent="aM9ryv3xv72pqoxQDRHE-5" edge="1">
+          <mxGeometry x="0.0448" y="20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="439" as="sourcePoint" />
+            <mxPoint x="55" y="459" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="112" y="438" />
-              <mxPoint x="112" y="458" />
+              <mxPoint x="112" y="439" />
+              <mxPoint x="112" y="459" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-114" value="2.Process GEI message" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.163;exitDx=0;exitDy=0;exitPerimeter=0;" parent="aM9ryv3xv72pqoxQDRHE-5" edge="1">
