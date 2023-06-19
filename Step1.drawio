@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T05:03:01.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="OOJC692L6GwE6PN5EmK-" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T05:03:36.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="DrsFt1GI2-HyoBi8tO_7" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1900" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1074" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,6 +199,17 @@
             <Array as="points">
               <mxPoint x="122" y="1030" />
               <mxPoint x="122" y="1050" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBuPi1NRq2ITQ3zSXP_t-29" value="1. Encrypt and sign" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="HtMYwvInf2GWWzEo8MSv-10">
+          <mxGeometry y="53" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="54.99999999999977" y="852.030303030303" as="sourcePoint" />
+            <mxPoint x="54.99999999999977" y="872.0303030303032" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="92" y="852" />
+              <mxPoint x="92" y="872" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
