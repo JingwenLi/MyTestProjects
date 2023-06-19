@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T05:01:52.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="GYv5zEjCwSP2CiA6RCS-" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T05:02:09.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="mbdvcNRl0qAc0fvD2j3H" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2058" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1176" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,7 +107,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QBuPi1NRq2ITQ3zSXP_t-27" value="7. Update e-Reporting Status&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;of AR Invoice(s) / Credit Note(s)&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;to &quot;SNT&quot;&lt;/span&gt;" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;align=left;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-5" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-6">
+        <mxCell id="QBuPi1NRq2ITQ3zSXP_t-27" value="7. Update e-Reporting Status&amp;nbsp;&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;of AR Invoice(s) / Credit Note(s)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;to &quot;SNT&quot;&lt;/span&gt;" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;align=left;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-5" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-6">
           <mxGeometry x="-0.0005" y="15" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="62" y="582" as="sourcePoint" />
             <mxPoint x="62" y="602" as="targetPoint" />
