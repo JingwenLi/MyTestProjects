@@ -1,9 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T00:49:50.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="EIovDw5kYx58WJ8FUfkx" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T00:49:57.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="6HI_LhK0cuGdad0BFN92" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2614" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-63" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="458" as="sourcePoint" />
+            <mxPoint x="995" y="458" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-79" value="Send" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HtMYwvInf2GWWzEo8MSv-63">
+          <mxGeometry x="-0.2085" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="Services Task" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="375" y="79" width="100" height="690" as="geometry" />
         </mxCell>
@@ -250,17 +261,6 @@
         <mxCell id="HtMYwvInf2GWWzEo8MSv-86" value="1.Get EDI messages that can be sent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HtMYwvInf2GWWzEo8MSv-85">
           <mxGeometry x="-0.0421" y="1" relative="1" as="geometry">
             <mxPoint x="7" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-63" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="458" as="sourcePoint" />
-            <mxPoint x="995" y="458" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-79" value="Send" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HtMYwvInf2GWWzEo8MSv-63">
-          <mxGeometry x="-0.2085" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="HtMYwvInf2GWWzEo8MSv-13" target="HtMYwvInf2GWWzEo8MSv-3" edge="1">
