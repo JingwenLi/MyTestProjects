@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T04:04:27.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="Dk8s-SfznAuE5gnG1ecW" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T04:05:14.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="siTjuJLOU3I7Bqh_4K58" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1544" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="Services Task" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="474" y="7" width="100" height="1091" as="geometry" />
+          <mxGeometry x="474" y="8" width="100" height="1091" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
           <mxGeometry x="45" y="282" width="10" height="198" as="geometry" />
@@ -65,11 +65,11 @@
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-114" value="2.Process GEI message" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.163;exitDx=0;exitDy=0;exitPerimeter=0;" parent="aM9ryv3xv72pqoxQDRHE-5" edge="1">
           <mxGeometry x="0.037" y="75" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="55" y="1141.3000000000002" as="sourcePoint" />
-            <mxPoint x="55" y="1154.0000000000002" as="targetPoint" />
+            <mxPoint x="55" y="1145.3000000000002" as="sourcePoint" />
+            <mxPoint x="55" y="1158.0000000000002" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="140" y="1134" />
-              <mxPoint x="140" y="1154" />
+              <mxPoint x="140" y="1138" />
+              <mxPoint x="140" y="1158" />
             </Array>
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
@@ -373,26 +373,29 @@
             <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-115" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="1" edge="1">
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-115" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="1" edge="1" target="HtMYwvInf2GWWzEo8MSv-117" source="HtMYwvInf2GWWzEo8MSv-53">
           <mxGeometry x="-0.0778" y="-3" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="529" y="1269.0000000000002" as="sourcePoint" />
-            <mxPoint x="875" y="1269.0000000000002" as="targetPoint" />
-            <Array as="points" />
+            <mxPoint x="529" y="1190.0000000000002" as="sourcePoint" />
+            <mxPoint x="875" y="1190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="1200" />
+              <mxPoint x="820" y="1200" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-116" value="3.Update e-Reporting Status &lt;br&gt;of AR Invoice(s) / Credit Note(s)&lt;br&gt;&amp;nbsp;to &quot;DLV&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HtMYwvInf2GWWzEo8MSv-115" vertex="1" connectable="0">
           <mxGeometry x="-0.0972" y="-4" relative="1" as="geometry">
-            <mxPoint x="26" y="-5" as="offset" />
+            <mxPoint x="26" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-119" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1">
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-119" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1" target="HtMYwvInf2GWWzEo8MSv-117" source="HtMYwvInf2GWWzEo8MSv-53">
           <mxGeometry x="0.1212" y="10" relative="1" as="geometry">
-            <mxPoint x="529" y="1199" as="sourcePoint" />
-            <mxPoint x="875" y="1199" as="targetPoint" />
+            <mxPoint x="538" y="1118.38" as="sourcePoint" />
+            <mxPoint x="884" y="1118.38" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="819" y="1199" />
-              <mxPoint x="719" y="1089" />
+              <mxPoint x="790" y="1120" />
+              <mxPoint x="728" y="1008.38" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
