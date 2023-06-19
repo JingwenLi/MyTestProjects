@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T05:03:36.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="DrsFt1GI2-HyoBi8tO_7" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T05:05:27.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="sYCuSduZyOR4YEovcKkW" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1074" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
         <mxCell id="HtMYwvInf2GWWzEo8MSv-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="HtMYwvInf2GWWzEo8MSv-10" vertex="1">
           <mxGeometry x="45" y="797" width="10" height="313" as="geometry" />
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-97" value="1. Encrypt and sign" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="HtMYwvInf2GWWzEo8MSv-10" edge="1">
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-97" value="2. Encrypt and sign" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="HtMYwvInf2GWWzEo8MSv-10" edge="1">
           <mxGeometry y="53" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="55" y="899.0769230769229" as="sourcePoint" />
             <mxPoint x="55" y="919.0769230769229" as="targetPoint" />
@@ -181,7 +181,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-101" value="&amp;nbsp;2.Build &quot;SOAP Messages with&amp;nbsp;Attachments&quot;" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="HtMYwvInf2GWWzEo8MSv-10" edge="1">
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-101" value="&amp;nbsp;3.Build &quot;SOAP Messages with&amp;nbsp;Attachments&quot;" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="HtMYwvInf2GWWzEo8MSv-10" edge="1">
           <mxGeometry x="-0.0229" y="113" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="55" y="942" as="sourcePoint" />
             <mxPoint x="55" y="962" as="targetPoint" />
@@ -192,7 +192,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-105" value="4. Process result, generate&amp;nbsp;Universal Event XML&amp;nbsp;" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="HtMYwvInf2GWWzEo8MSv-10" edge="1">
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-105" value="5. Process result, generate&amp;nbsp;Universal Event XML&amp;nbsp;" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="HtMYwvInf2GWWzEo8MSv-10" edge="1">
           <mxGeometry x="-0.0006" y="128" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="55" y="1030.076923076923" as="sourcePoint" />
             <mxPoint x="55" y="1050.076923076923" as="targetPoint" />
@@ -203,8 +203,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QBuPi1NRq2ITQ3zSXP_t-29" value="1. Encrypt and sign" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="HtMYwvInf2GWWzEo8MSv-10">
-          <mxGeometry y="53" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="QBuPi1NRq2ITQ3zSXP_t-29" value="1. Parse GEI message" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="HtMYwvInf2GWWzEo8MSv-10">
+          <mxGeometry x="-0.0213" y="60" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="54.99999999999977" y="852.030303030303" as="sourcePoint" />
             <mxPoint x="54.99999999999977" y="872.0303030303032" as="targetPoint" />
             <Array as="points">
@@ -376,7 +376,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-103" value="&amp;nbsp;3.Send &quot;SOAP Messages with&amp;nbsp;Attachments&quot;" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="1" edge="1">
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-103" value="&amp;nbsp;4.Send &quot;SOAP Messages with&amp;nbsp;Attachments&quot;" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="1" edge="1">
           <mxGeometry x="-0.0569" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1122" y="1003.0000000000002" as="sourcePoint" />
             <mxPoint x="1471" y="1003.0000000000002" as="targetPoint" />
