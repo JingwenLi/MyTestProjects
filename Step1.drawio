@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T04:37:30.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="ZgvQWyp1F2Kt5j6AZa8w" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T04:37:48.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="uJdepAlU9YQ7SjxqA_nm" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2150" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -227,7 +227,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-33" value="&lt;div&gt;5.Generate GEI message.&amp;nbsp;&lt;/div&gt;&lt;div&gt;• Message Type: GEI - GlobalElectronicInvoicing&lt;/div&gt;&lt;div&gt;• Message Sub Type: GEN - Generate Invoice Request&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="HtMYwvInf2GWWzEo8MSv-32" vertex="1" connectable="0">
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-33" value="&lt;div&gt;6. Generate GEI message and Save&lt;/div&gt;&lt;div&gt;• Message Type: GEI - GlobalElectronicInvoicing&lt;/div&gt;&lt;div&gt;• Message Sub Type: GEN - Generate Invoice Request&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="HtMYwvInf2GWWzEo8MSv-32" vertex="1" connectable="0">
           <mxGeometry x="-0.0421" y="1" relative="1" as="geometry">
             <mxPoint x="-141" y="13" as="offset" />
           </mxGeometry>
