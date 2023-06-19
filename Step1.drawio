@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T04:45:48.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="27fpAVnl5rPtI2jRVeZt" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T04:45:58.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="mw_EWhTY6CNVaXOZHKEh" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1900" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -472,7 +472,7 @@
         </mxCell>
         <mxCell id="QBuPi1NRq2ITQ3zSXP_t-22" value="6. Update e-Reporting Status &lt;br&gt;of AR Invoice(s) / Credit Note(s)&amp;nbsp;&lt;br&gt;to &quot;SNT&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QBuPi1NRq2ITQ3zSXP_t-21">
           <mxGeometry x="-0.0421" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="10" as="offset" />
+            <mxPoint x="-1" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
