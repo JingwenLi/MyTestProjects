@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T00:18:36.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="HzoRa09ruUY8Im6iVb3z" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T00:21:15.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="kvisG19ekZ9cz0cxP2eG" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2085" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,6 +18,28 @@
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-5">
           <mxGeometry x="45" y="546" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-68" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-5" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="181" as="sourcePoint" />
+            <mxPoint x="395" y="181" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="181" />
+              <mxPoint x="320" y="281" />
+              <mxPoint x="360" y="301" />
+              <mxPoint x="380" y="211" />
+              <mxPoint x="360" y="231" />
+              <mxPoint x="395" y="171" />
+              <mxPoint x="355" y="161" />
+              <mxPoint x="155" y="111" />
+              <mxPoint x="185" y="101" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-69" value="2.Perform necessary validation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HtMYwvInf2GWWzEo8MSv-68">
+          <mxGeometry x="-0.0421" y="1" relative="1" as="geometry">
+            <mxPoint x="7" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-80" y="140" width="30" height="60" as="geometry" />
@@ -94,6 +116,7 @@
             <mxPoint x="440" y="230" as="sourcePoint" />
             <mxPoint x="770" y="230" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="670" y="340" />
               <mxPoint x="710" y="360" />
               <mxPoint x="730" y="270" />
               <mxPoint x="710" y="290" />
@@ -157,8 +180,32 @@
             <mxPoint x="-211" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-64" value="1.Obtain necessary&amp;nbsp;information for building XML&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;2.Perform necessary validation&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;3.Build&amp;nbsp;XML&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;4. Perform XSD validation&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="230" width="235" height="90" as="geometry" />
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-64" value="[Loop]&lt;br&gt;1.Obtain necessary&amp;nbsp;information for building XML&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;2.Perform necessary validation&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;3.Build&amp;nbsp;XML&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;4. Perform XSD validation&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="578" width="265" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-66" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="HtMYwvInf2GWWzEo8MSv-3">
+          <mxGeometry x="0.1212" y="10" relative="1" as="geometry">
+            <mxPoint x="435" y="350" as="sourcePoint" />
+            <mxPoint x="765" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="230" />
+              <mxPoint x="580" y="250" />
+              <mxPoint x="680" y="350" />
+              <mxPoint x="720" y="370" />
+              <mxPoint x="740" y="280" />
+              <mxPoint x="720" y="300" />
+              <mxPoint x="755" y="240" />
+              <mxPoint x="715" y="230" />
+              <mxPoint x="515" y="180" />
+              <mxPoint x="545" y="170" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-67" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1.Obtain necessary&amp;nbsp;information for building XML&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HtMYwvInf2GWWzEo8MSv-66">
+          <mxGeometry x="-0.0421" y="1" relative="1" as="geometry">
+            <mxPoint x="7" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
