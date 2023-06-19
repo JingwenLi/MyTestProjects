@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T04:56:14.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="AsaddD7BHtHRN1SyIqTm" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T04:57:51.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="N8pJNUD0OUt6024HFfnf" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1300" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -92,6 +92,28 @@
             <Array as="points">
               <mxPoint x="150" y="490" />
               <mxPoint x="150" y="510" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBuPi1NRq2ITQ3zSXP_t-26" value="6.&amp;nbsp;Generate GEI message&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;• Message Type: GEI - GlobalElectronicInvoicing&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;• Message Sub Type: GEN - Generate Invoice Request&lt;/div&gt;" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;align=left;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-5" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-6">
+          <mxGeometry x="-0.0005" y="15" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="52" y="532.05" as="sourcePoint" />
+            <mxPoint x="52" y="552.1026315789475" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="147" y="532" />
+              <mxPoint x="147" y="552" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBuPi1NRq2ITQ3zSXP_t-27" value="7. Update e-Reporting Status&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;of AR Invoice(s) / Credit Note(s)&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;to &quot;SNT&quot;&lt;/span&gt;" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;align=left;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-5" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-6">
+          <mxGeometry x="-0.0005" y="15" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="62" y="582" as="sourcePoint" />
+            <mxPoint x="62" y="602" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="154" y="582" />
+              <mxPoint x="154" y="602" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -207,30 +229,6 @@
               <mxPoint x="84" y="129" />
             </Array>
             <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-32" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="523" y="557" as="sourcePoint" />
-            <mxPoint x="873" y="557" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="840" y="557" />
-              <mxPoint x="759" y="555" />
-              <mxPoint x="809" y="593" />
-              <mxPoint x="769" y="573" />
-              <mxPoint x="809" y="593" />
-              <mxPoint x="829" y="503" />
-              <mxPoint x="809" y="523" />
-              <mxPoint x="844" y="463" />
-              <mxPoint x="804" y="453" />
-              <mxPoint x="604" y="403" />
-              <mxPoint x="634" y="393" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-33" value="&lt;div&gt;6. Save the generated GEI message&lt;/div&gt;&lt;div&gt;• Message Type: GEI - GlobalElectronicInvoicing&lt;/div&gt;&lt;div&gt;• Message Sub Type: GEN - Generate Invoice Request&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="HtMYwvInf2GWWzEo8MSv-32" vertex="1" connectable="0">
-          <mxGeometry x="-0.0421" y="1" relative="1" as="geometry">
-            <mxPoint x="-123" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-55" value="EKR" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -448,31 +446,6 @@
         <mxCell id="HtMYwvInf2GWWzEo8MSv-122" value="3.Save" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HtMYwvInf2GWWzEo8MSv-121" vertex="1" connectable="0">
           <mxGeometry x="-0.0421" y="1" relative="1" as="geometry">
             <mxPoint x="7" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QBuPi1NRq2ITQ3zSXP_t-21" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="523" y="614" as="sourcePoint" />
-            <mxPoint x="873" y="614" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="830" y="614" />
-              <mxPoint x="878" y="611" />
-              <mxPoint x="769" y="672" />
-              <mxPoint x="819" y="710" />
-              <mxPoint x="779" y="690" />
-              <mxPoint x="819" y="710" />
-              <mxPoint x="839" y="620" />
-              <mxPoint x="819" y="640" />
-              <mxPoint x="854" y="580" />
-              <mxPoint x="814" y="570" />
-              <mxPoint x="614" y="520" />
-              <mxPoint x="644" y="510" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QBuPi1NRq2ITQ3zSXP_t-22" value="6. Update e-Reporting Status &lt;br&gt;of AR Invoice(s) / Credit Note(s)&amp;nbsp;&lt;br&gt;to &quot;SNT&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QBuPi1NRq2ITQ3zSXP_t-21">
-          <mxGeometry x="-0.0421" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QBuPi1NRq2ITQ3zSXP_t-24" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="HtMYwvInf2GWWzEo8MSv-2">
