@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T01:01:52.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="HF6678ddIY08B9bdir1Z" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T01:02:19.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="GU4p7eUYSRrbXFgxvM00" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2614" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -160,14 +160,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-105" value="4. Process result" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="HtMYwvInf2GWWzEo8MSv-10" source="HtMYwvInf2GWWzEo8MSv-11" target="HtMYwvInf2GWWzEo8MSv-11">
-          <mxGeometry y="65" width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="0.0111" y="55" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="510" as="sourcePoint" />
             <mxPoint x="60" y="530" as="targetPoint" />
             <Array as="points">
               <mxPoint x="135" y="510" />
               <mxPoint x="135" y="530" />
             </Array>
-            <mxPoint y="-1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-12" value="CW1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
