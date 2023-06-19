@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T05:28:07.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="DnJF9YK6SrKRlu7sOWms" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T05:30:23.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="J9LWdgPSVk06bQOgBevH" version="21.4.0" type="github">
   <diagram name="第 1 页" id="0VNEV3cZI9pgAgIrMwue">
-    <mxGraphModel dx="2058" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1453" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,8 +30,8 @@
         <mxCell id="JGwdCnwKKmSO_XFoEcUz-74" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="JGwdCnwKKmSO_XFoEcUz-70">
           <mxGeometry x="45" y="1357" width="10" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="JGwdCnwKKmSO_XFoEcUz-75" value="4. Build&amp;nbsp;XML" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="JGwdCnwKKmSO_XFoEcUz-70">
-          <mxGeometry x="0.0471" y="50" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="JGwdCnwKKmSO_XFoEcUz-75" value="4. Build Empty Payload XML" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="JGwdCnwKKmSO_XFoEcUz-70">
+          <mxGeometry x="-0.0186" y="80" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="55" y="413" as="sourcePoint" />
             <mxPoint x="55" y="433" as="targetPoint" />
             <Array as="points">
@@ -52,15 +52,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JGwdCnwKKmSO_XFoEcUz-77" value="5. Perform XSD validation&lt;br&gt;(GenerateInvoiceRequestPayloadValidation)" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;align=left;" edge="1" parent="JGwdCnwKKmSO_XFoEcUz-70">
-          <mxGeometry x="0.0448" y="20" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="JGwdCnwKKmSO_XFoEcUz-77" value="5. Perform XSD validation&lt;br&gt;(QueryInvoiceRequestPayloadValidation)" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;align=left;" edge="1" parent="JGwdCnwKKmSO_XFoEcUz-70">
+          <mxGeometry x="0.0377" y="20" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="55" y="457" as="sourcePoint" />
             <mxPoint x="55" y="477" as="targetPoint" />
             <Array as="points">
               <mxPoint x="112" y="457" />
               <mxPoint x="112" y="477" />
             </Array>
-            <mxPoint y="-1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JGwdCnwKKmSO_XFoEcUz-78" value="2.Process GEI message" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.163;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="JGwdCnwKKmSO_XFoEcUz-70">
