@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T03:56:33.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="LIfJaN6UWBJ4bdRPbYp3" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T03:56:41.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="fJux7nnOHJ144D242QQ8" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2058" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -190,11 +190,11 @@
         </mxCell>
         <mxCell id="QBuPi1NRq2ITQ3zSXP_t-10" value="Is AR Invoice(s) / Credit Note(s)&lt;br&gt;eligible for E-Invoicing" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="HtMYwvInf2GWWzEo8MSv-12">
           <mxGeometry y="90" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="55" y="99.00000000000045" as="sourcePoint" />
-            <mxPoint x="55" y="119.00000000000045" as="targetPoint" />
+            <mxPoint x="55" y="117.00000000000045" as="sourcePoint" />
+            <mxPoint x="55" y="137.00000000000045" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="110" y="99" />
-              <mxPoint x="110" y="119" />
+              <mxPoint x="110" y="117" />
+              <mxPoint x="110" y="137" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -291,18 +291,18 @@
             <mxPoint x="7" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="HtMYwvInf2GWWzEo8MSv-13" target="HtMYwvInf2GWWzEo8MSv-3" edge="1">
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0044" relative="1" as="geometry">
-            <mxPoint x="268.07142857142844" y="150" as="sourcePoint" />
+            <mxPoint x="274" y="169" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="829" y="150" />
-              <mxPoint x="739" y="234" />
-              <mxPoint x="469" y="234" />
-              <mxPoint x="399" y="234" />
-              <mxPoint x="479" y="264" />
-              <mxPoint x="444" y="204" />
+              <mxPoint x="829" y="169" />
+              <mxPoint x="739" y="253" />
+              <mxPoint x="469" y="253" />
+              <mxPoint x="399" y="253" />
+              <mxPoint x="479" y="283" />
+              <mxPoint x="444" y="223" />
             </Array>
-            <mxPoint x="884" y="150" as="targetPoint" />
+            <mxPoint x="884" y="169" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
