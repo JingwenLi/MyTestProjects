@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T04:52:32.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="Wb-WFrCPuS5yfiSK6cRT" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T04:56:14.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="AsaddD7BHtHRN1SyIqTm" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1300" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -452,25 +452,50 @@
         </mxCell>
         <mxCell id="QBuPi1NRq2ITQ3zSXP_t-21" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="523" y="619" as="sourcePoint" />
-            <mxPoint x="873" y="619" as="targetPoint" />
+            <mxPoint x="523" y="614" as="sourcePoint" />
+            <mxPoint x="873" y="614" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="830" y="619" />
-              <mxPoint x="878" y="616" />
-              <mxPoint x="769" y="677" />
-              <mxPoint x="819" y="715" />
-              <mxPoint x="779" y="695" />
-              <mxPoint x="819" y="715" />
-              <mxPoint x="839" y="625" />
-              <mxPoint x="819" y="645" />
-              <mxPoint x="854" y="585" />
-              <mxPoint x="814" y="575" />
-              <mxPoint x="614" y="525" />
-              <mxPoint x="644" y="515" />
+              <mxPoint x="830" y="614" />
+              <mxPoint x="878" y="611" />
+              <mxPoint x="769" y="672" />
+              <mxPoint x="819" y="710" />
+              <mxPoint x="779" y="690" />
+              <mxPoint x="819" y="710" />
+              <mxPoint x="839" y="620" />
+              <mxPoint x="819" y="640" />
+              <mxPoint x="854" y="580" />
+              <mxPoint x="814" y="570" />
+              <mxPoint x="614" y="520" />
+              <mxPoint x="644" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QBuPi1NRq2ITQ3zSXP_t-22" value="6. Update e-Reporting Status &lt;br&gt;of AR Invoice(s) / Credit Note(s)&amp;nbsp;&lt;br&gt;to &quot;SNT&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QBuPi1NRq2ITQ3zSXP_t-21">
+          <mxGeometry x="-0.0421" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBuPi1NRq2ITQ3zSXP_t-24" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="HtMYwvInf2GWWzEo8MSv-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="640" as="sourcePoint" />
+            <mxPoint x="860" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="817" y="640" />
+              <mxPoint x="865" y="637" />
+              <mxPoint x="756" y="698" />
+              <mxPoint x="806" y="736" />
+              <mxPoint x="766" y="716" />
+              <mxPoint x="806" y="736" />
+              <mxPoint x="826" y="646" />
+              <mxPoint x="806" y="666" />
+              <mxPoint x="841" y="606" />
+              <mxPoint x="801" y="596" />
+              <mxPoint x="601" y="546" />
+              <mxPoint x="631" y="536" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBuPi1NRq2ITQ3zSXP_t-25" value="8. Save" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QBuPi1NRq2ITQ3zSXP_t-24">
           <mxGeometry x="-0.0421" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="2" as="offset" />
           </mxGeometry>
