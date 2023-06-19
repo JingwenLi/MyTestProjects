@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T00:17:52.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="mM7C0HaUaemKpNCKa3dl" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T00:18:36.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="HzoRa09ruUY8Im6iVb3z" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2085" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="370" y="79" width="100" height="621" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
-          <mxGeometry x="45" y="140" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="140" width="10" height="150" as="geometry" />
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-5">
           <mxGeometry x="45" y="328" width="10" height="80" as="geometry" />
@@ -94,6 +94,7 @@
             <mxPoint x="440" y="230" as="sourcePoint" />
             <mxPoint x="770" y="230" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="710" y="360" />
               <mxPoint x="730" y="270" />
               <mxPoint x="710" y="290" />
               <mxPoint x="745" y="230" />
@@ -103,7 +104,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-33" value="1.Obtain necessary&amp;nbsp;information for building XML&lt;br&gt;2.Perform necessary validation&lt;br&gt;3.Build&amp;nbsp;XML&lt;br&gt;4. Perform XSD validation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HtMYwvInf2GWWzEo8MSv-32">
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-33" value="Save" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HtMYwvInf2GWWzEo8MSv-32">
           <mxGeometry x="-0.0421" y="1" relative="1" as="geometry">
             <mxPoint x="7" y="1" as="offset" />
           </mxGeometry>
@@ -155,6 +156,9 @@
           <mxGeometry x="0.2069" y="2" relative="1" as="geometry">
             <mxPoint x="-211" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-64" value="1.Obtain necessary&amp;nbsp;information for building XML&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;2.Perform necessary validation&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;3.Build&amp;nbsp;XML&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;4. Perform XSD validation&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="230" width="235" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
