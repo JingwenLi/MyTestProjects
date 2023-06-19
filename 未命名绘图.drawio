@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T00:30:10.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="hv3Ukya5wp80U3ki0KCQ" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T00:30:24.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="zMzLcsuTvhCRn7jQ44_g" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2085" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-78" value="4. Perform XSD validation&lt;br&gt;(GenerateInvoiceRequestPayloadValidation)" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-5">
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-78" value="4. Perform XSD validation&lt;br&gt;(GenerateInvoiceRequestPayloadValidation)" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-5" target="aM9ryv3xv72pqoxQDRHE-6">
           <mxGeometry x="-0.0793" y="125" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="55" y="265" as="sourcePoint" />
             <mxPoint x="49.5" y="285" as="targetPoint" />
@@ -209,9 +209,6 @@
           <mxGeometry x="0.2069" y="2" relative="1" as="geometry">
             <mxPoint x="-211" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-64" value="[Loop]&lt;br&gt;1.Obtain necessary&amp;nbsp;information for building XML&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;2.Perform necessary validation&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;3.Build&amp;nbsp;XML&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;4. Perform XSD validation&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="578" width="265" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-66" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="HtMYwvInf2GWWzEo8MSv-3">
           <mxGeometry x="0.1212" y="10" relative="1" as="geometry">
