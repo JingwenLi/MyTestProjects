@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T04:17:24.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="FzFueAZCTzgdrXSGYVIA" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T04:21:45.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="07SWCYPUxfxet-6Z4K4F" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2750" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -205,9 +205,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-33" value="5.Generate GEI message&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;border-color: var(--border-color); font-size: 12px; text-align: center; background-color: rgb(251, 251, 251); margin-top: 0in;&quot; type=&quot;disc&quot;&gt;&lt;li style=&quot;border-color: var(--border-color); margin-left: 0in;&quot; class=&quot;MsoListParagraph&quot;&gt;Message Type:&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); margin-left: 0in;&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HtMYwvInf2GWWzEo8MSv-32" vertex="1" connectable="0">
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-33" value="5.Generate GEI message&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;•&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251); font-size: 12px;&quot;&gt;Message Type: GEI -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251); font-size: 12px;&quot;&gt;GlobalElectronicInvoicing&lt;/span&gt;&lt;/div&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;•&amp;nbsp;&lt;span style=&quot;background-color: rgb(251, 251, 251); font-weight: normal;&quot;&gt;Message Sub Type&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="HtMYwvInf2GWWzEo8MSv-32" vertex="1" connectable="0">
           <mxGeometry x="-0.0421" y="1" relative="1" as="geometry">
-            <mxPoint x="8" y="21" as="offset" />
+            <mxPoint x="-123" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-55" value="EKR" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
