@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T00:34:38.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="7e_xHiLEVoP9FgRpCqVs" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T00:35:07.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="jCXQDqZPcfUwzw1xIcbY" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2085" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,33 +39,33 @@
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-73" value="3.Build&amp;nbsp;XML" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-5">
           <mxGeometry x="0.0471" y="50" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="55" y="231" as="sourcePoint" />
-            <mxPoint x="55" y="251" as="targetPoint" />
+            <mxPoint x="55" y="229" as="sourcePoint" />
+            <mxPoint x="55" y="249" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="130" y="231" />
-              <mxPoint x="130" y="251" />
+              <mxPoint x="130" y="229" />
+              <mxPoint x="130" y="249" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-72" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;2.Perform necessary validation&lt;/span&gt;&lt;br&gt;(TaxInvoiceValidation)" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-5">
           <mxGeometry y="90" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="55" y="194" as="sourcePoint" />
-            <mxPoint x="55" y="214" as="targetPoint" />
+            <mxPoint x="55" y="193" as="sourcePoint" />
+            <mxPoint x="55" y="213" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="115" y="194" />
-              <mxPoint x="115" y="214" />
+              <mxPoint x="115" y="193" />
+              <mxPoint x="115" y="213" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-78" value="4. Perform XSD validation&lt;br&gt;(GenerateInvoiceRequestPayloadValidation)" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-5" target="aM9ryv3xv72pqoxQDRHE-6">
-          <mxGeometry x="-0.0793" y="125" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="55" y="265" as="sourcePoint" />
-            <mxPoint x="49.5" y="285" as="targetPoint" />
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-78" value="4. Perform XSD validation&lt;br&gt;(GenerateInvoiceRequestPayloadValidation)" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-5">
+          <mxGeometry x="0.0526" y="115" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="263" as="sourcePoint" />
+            <mxPoint x="55" y="283" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="140" y="265" />
-              <mxPoint x="140" y="285" />
+              <mxPoint x="140" y="263" />
+              <mxPoint x="140" y="283" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -142,18 +142,18 @@
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-32" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="380" as="sourcePoint" />
-            <mxPoint x="755" y="380" as="targetPoint" />
+            <mxPoint x="430" y="382" as="sourcePoint" />
+            <mxPoint x="755" y="382" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="710" y="380" />
-              <mxPoint x="670" y="360" />
-              <mxPoint x="710" y="380" />
-              <mxPoint x="730" y="290" />
-              <mxPoint x="710" y="310" />
-              <mxPoint x="745" y="250" />
-              <mxPoint x="705" y="240" />
-              <mxPoint x="505" y="190" />
-              <mxPoint x="535" y="180" />
+              <mxPoint x="710" y="382" />
+              <mxPoint x="670" y="362" />
+              <mxPoint x="710" y="382" />
+              <mxPoint x="730" y="292" />
+              <mxPoint x="710" y="312" />
+              <mxPoint x="745" y="252" />
+              <mxPoint x="705" y="242" />
+              <mxPoint x="505" y="192" />
+              <mxPoint x="535" y="182" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -212,10 +212,10 @@
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-76" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0154" y="4" relative="1" as="geometry">
-            <mxPoint x="755" y="253" as="sourcePoint" />
-            <mxPoint x="430" y="253" as="targetPoint" />
+            <mxPoint x="755" y="252" as="sourcePoint" />
+            <mxPoint x="430" y="252" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="570" y="253" />
+              <mxPoint x="570" y="252" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
