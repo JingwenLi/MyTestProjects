@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T00:15:01.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="H9BUxGUwK-uvbp034ZU-" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T00:16:33.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="h3RzqRE4dej9oDWwQjlF" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2085" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-33" value="1.Obtain certificates and other necessary&amp;nbsp;&lt;br&gt;information for building XML&lt;br&gt;2.Build&amp;nbsp;XML&lt;br&gt;3. Perform XML validation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HtMYwvInf2GWWzEo8MSv-32">
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-33" value="1.Obtain necessary&amp;nbsp;information for building XML&lt;br&gt;2.Perform XSD validation&lt;br&gt;3.Build&amp;nbsp;XML&lt;br&gt;4. Perform XSD validation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HtMYwvInf2GWWzEo8MSv-32">
           <mxGeometry x="-0.0421" y="1" relative="1" as="geometry">
             <mxPoint x="7" y="1" as="offset" />
           </mxGeometry>
