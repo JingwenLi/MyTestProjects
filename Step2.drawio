@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T05:34:54.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="Rzc62VG0vH8Ev6xFYorm" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T05:37:18.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="b4_q7XC1jPILqJwaW4cb" version="21.4.0" type="github">
   <diagram name="第 1 页" id="0VNEV3cZI9pgAgIrMwue">
     <mxGraphModel dx="1235" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
             <mxPoint x="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JGwdCnwKKmSO_XFoEcUz-111" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="JGwdCnwKKmSO_XFoEcUz-111" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="JGwdCnwKKmSO_XFoEcUz-71">
           <mxGeometry x="0.0154" y="4" relative="1" as="geometry">
             <mxPoint x="531" y="186" as="sourcePoint" />
             <mxPoint x="149" y="186" as="targetPoint" />
@@ -414,7 +414,7 @@
             <mxPoint x="7" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JGwdCnwKKmSO_XFoEcUz-137" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="JGwdCnwKKmSO_XFoEcUz-137" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="JGwdCnwKKmSO_XFoEcUz-71">
           <mxGeometry x="0.0154" y="4" relative="1" as="geometry">
             <mxPoint x="531" y="138" as="sourcePoint" />
             <mxPoint x="149" y="138" as="targetPoint" />
@@ -428,6 +428,32 @@
         <mxCell id="JGwdCnwKKmSO_XFoEcUz-138" value="Return" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JGwdCnwKKmSO_XFoEcUz-137">
           <mxGeometry x="-0.0787" y="2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JGwdCnwKKmSO_XFoEcUz-142" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="JGwdCnwKKmSO_XFoEcUz-71">
+          <mxGeometry x="0.1212" y="10" relative="1" as="geometry">
+            <mxPoint x="149" y="171" as="sourcePoint" />
+            <mxPoint x="531" y="171" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="171" />
+              <mxPoint x="185" y="191" />
+              <mxPoint x="445" y="201" />
+              <mxPoint x="305" y="221" />
+              <mxPoint x="405" y="321" />
+              <mxPoint x="445" y="341" />
+              <mxPoint x="465" y="251" />
+              <mxPoint x="445" y="271" />
+              <mxPoint x="480" y="211" />
+              <mxPoint x="440" y="201" />
+              <mxPoint x="240" y="151" />
+              <mxPoint x="270" y="141" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JGwdCnwKKmSO_XFoEcUz-143" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;2. Get certificate&amp;nbsp;for building XML&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JGwdCnwKKmSO_XFoEcUz-142">
+          <mxGeometry x="-0.0421" y="1" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
