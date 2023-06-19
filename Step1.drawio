@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T04:23:35.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="HHXnMIan8ZWzzJ40Hmfy" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T04:25:31.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="zDtAHgAgK6NI3PfR6gm2" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2750" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
           <mxGeometry x="468" y="8" width="100" height="1382" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
-          <mxGeometry x="45" y="282" width="10" height="198" as="geometry" />
+          <mxGeometry x="45" y="260" width="10" height="220" as="geometry" />
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
           <mxGeometry x="45" y="536" width="10" height="104" as="geometry" />
@@ -123,7 +123,7 @@
           <mxGeometry x="45" y="793" width="10" height="46" as="geometry" />
         </mxCell>
         <mxCell id="QBuPi1NRq2ITQ3zSXP_t-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="HtMYwvInf2GWWzEo8MSv-2">
-          <mxGeometry x="45" y="273" width="10" height="210" as="geometry" />
+          <mxGeometry x="45" y="260" width="10" height="223" as="geometry" />
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-8" value="NTS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="1426" y="7" width="100" height="830" as="geometry" />
@@ -222,28 +222,28 @@
         <mxCell id="HtMYwvInf2GWWzEo8MSv-60" value="UMI" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="436" y="1128" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-66" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="QBuPi1NRq2ITQ3zSXP_t-11" edge="1">
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-66" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1">
           <mxGeometry x="0.1212" y="10" relative="1" as="geometry">
-            <mxPoint x="529" y="307" as="sourcePoint" />
-            <mxPoint x="884" y="307" as="targetPoint" />
+            <mxPoint x="523.0000000000005" y="301" as="sourcePoint" />
+            <mxPoint x="873.0000000000005" y="301" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="849" y="307" />
-              <mxPoint x="559" y="327" />
-              <mxPoint x="819" y="337" />
-              <mxPoint x="679" y="357" />
-              <mxPoint x="779" y="457" />
-              <mxPoint x="819" y="477" />
-              <mxPoint x="839" y="387" />
-              <mxPoint x="819" y="407" />
-              <mxPoint x="854" y="347" />
-              <mxPoint x="814" y="337" />
-              <mxPoint x="614" y="287" />
-              <mxPoint x="644" y="277" />
+              <mxPoint x="849" y="301" />
+              <mxPoint x="559" y="321" />
+              <mxPoint x="819" y="331" />
+              <mxPoint x="679" y="351" />
+              <mxPoint x="779" y="451" />
+              <mxPoint x="819" y="471" />
+              <mxPoint x="839" y="381" />
+              <mxPoint x="819" y="401" />
+              <mxPoint x="854" y="341" />
+              <mxPoint x="814" y="331" />
+              <mxPoint x="614" y="281" />
+              <mxPoint x="644" y="271" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-67" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1.Obtain necessary&amp;nbsp;information for building XML&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HtMYwvInf2GWWzEo8MSv-66" vertex="1" connectable="0">
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-67" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1.Obtain necessary&amp;nbsp;information for building XML&lt;br&gt;(Include certificate, Universaction Transaction XML......)&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HtMYwvInf2GWWzEo8MSv-66" vertex="1" connectable="0">
           <mxGeometry x="-0.0421" y="1" relative="1" as="geometry">
             <mxPoint x="7" y="1" as="offset" />
           </mxGeometry>
