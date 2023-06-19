@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T00:43:06.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="iq160mz2XjWGEr3jMTc9" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T00:44:24.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="yBgauBQKTJB6cVKMDCOP" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2085" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -104,10 +104,32 @@
           <mxGeometry x="950" y="80" width="100" height="640" as="geometry" />
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="HtMYwvInf2GWWzEo8MSv-10">
-          <mxGeometry x="45" y="360" width="10" height="180" as="geometry" />
+          <mxGeometry x="45" y="360" width="10" height="160" as="geometry" />
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-93" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="HtMYwvInf2GWWzEo8MSv-10">
           <mxGeometry x="45" y="590" width="10" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-97" value="1. Encrypt and sign" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="HtMYwvInf2GWWzEo8MSv-10" source="HtMYwvInf2GWWzEo8MSv-11" target="HtMYwvInf2GWWzEo8MSv-11">
+          <mxGeometry y="53" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="49.5" y="372" as="sourcePoint" />
+            <mxPoint x="49.5" y="392" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="372" />
+              <mxPoint x="120" y="392" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-101" value="&amp;nbsp;2.Build &quot;SOAP Messages with&amp;nbsp;Attachments&quot;" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="HtMYwvInf2GWWzEo8MSv-10">
+          <mxGeometry x="-0.0526" y="115" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="412" as="sourcePoint" />
+            <mxPoint x="55" y="432" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="412" />
+              <mxPoint x="130" y="432" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-12" value="CW1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="110" y="80" width="100" height="480" as="geometry" />
@@ -278,11 +300,11 @@
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-94" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.1077" y="-15" relative="1" as="geometry">
-            <mxPoint x="1308" y="585" as="sourcePoint" />
-            <mxPoint x="1005" y="585" as="targetPoint" />
+            <mxPoint x="1308" y="576" as="sourcePoint" />
+            <mxPoint x="1005" y="576" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="1200" y="585" />
+              <mxPoint x="1200" y="576" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -291,35 +313,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-97" value="1. Encrypt and sign" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
-          <mxGeometry y="53" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="999.5" y="452" as="sourcePoint" />
-            <mxPoint x="999.5" y="472" as="targetPoint" />
+        <mxCell id="HtMYwvInf2GWWzEo8MSv-103" value="&amp;nbsp;3.Send &quot;SOAP Messages with&amp;nbsp;Attachments&quot;" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" source="HtMYwvInf2GWWzEo8MSv-11" target="HtMYwvInf2GWWzEo8MSv-8">
+          <mxGeometry x="-0.0569" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="530" as="sourcePoint" />
+            <mxPoint x="1000" y="550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1137" y="452" />
-              <mxPoint x="1137" y="472" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-101" value="&amp;nbsp;2.Build &quot;SOAP Messages with&amp;nbsp;Attachments&quot;" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
-          <mxGeometry x="-0.0526" y="115" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1050" y="365" as="sourcePoint" />
-            <mxPoint x="1050" y="385" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1135" y="365" />
-              <mxPoint x="1135" y="385" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HtMYwvInf2GWWzEo8MSv-103" value="&amp;nbsp;3.Send &quot;SOAP Messages with&amp;nbsp;Attachments&quot;" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
-          <mxGeometry x="-0.0526" y="115" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1050" y="398" as="sourcePoint" />
-            <mxPoint x="1050" y="418" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1135" y="398" />
-              <mxPoint x="1135" y="418" />
+              <mxPoint x="1200" y="530" />
+              <mxPoint x="1200" y="530" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
