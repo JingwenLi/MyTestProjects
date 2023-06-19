@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T04:40:49.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="tZS7e9tqi6HbZ6vRqAGW" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T04:42:18.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="fh3wz7T02n422gJ73f8w" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2750" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
           <mxGeometry x="468" y="8" width="100" height="1382" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
-          <mxGeometry x="45" y="260" width="10" height="340" as="geometry" />
+          <mxGeometry x="45" y="260" width="10" height="350" as="geometry" />
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
           <mxGeometry x="45" y="659" width="10" height="104" as="geometry" />
@@ -134,7 +134,7 @@
           <mxGeometry x="45" y="916" width="10" height="46" as="geometry" />
         </mxCell>
         <mxCell id="QBuPi1NRq2ITQ3zSXP_t-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="HtMYwvInf2GWWzEo8MSv-2">
-          <mxGeometry x="45" y="260" width="10" height="330" as="geometry" />
+          <mxGeometry x="45" y="260" width="10" height="360" as="geometry" />
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-8" value="NTS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="1426" y="7" width="100" height="830" as="geometry" />
@@ -214,6 +214,7 @@
             <mxPoint x="523" y="570" as="sourcePoint" />
             <mxPoint x="880" y="578" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="850" y="550" />
               <mxPoint x="759" y="578" />
               <mxPoint x="809" y="616" />
               <mxPoint x="769" y="596" />
@@ -451,6 +452,30 @@
         </mxCell>
         <mxCell id="QBuPi1NRq2ITQ3zSXP_t-18" value="&lt;ul type=&quot;disc&quot; style=&quot;margin-top:0in&quot;&gt;&lt;br/&gt; &lt;li style=&quot;margin-left:0in;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;Complete all yellow WIs =&amp;gt; Before &lt;span style=&quot;font-size:10.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&lt;br/&gt;     &amp;quot;Times New Roman&amp;quot;;background:yellow;mso-highlight:yellow;mso-ansi-language:&lt;br/&gt;     EN-AU;mso-fareast-language:ZH-CN&quot; lang=&quot;EN-AU&quot;&gt;22&lt;sup&gt;nd&lt;/sup&gt; of Jun.&lt;/span&gt;&lt;span lang=&quot;EN-AU&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;br/&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-20" y="508" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QBuPi1NRq2ITQ3zSXP_t-21" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="523.0000000000005" y="601" as="sourcePoint" />
+            <mxPoint x="873.0000000000005" y="601" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="601" />
+              <mxPoint x="769" y="629" />
+              <mxPoint x="819" y="667" />
+              <mxPoint x="779" y="647" />
+              <mxPoint x="819" y="667" />
+              <mxPoint x="839" y="577" />
+              <mxPoint x="819" y="597" />
+              <mxPoint x="854" y="537" />
+              <mxPoint x="814" y="527" />
+              <mxPoint x="614" y="477" />
+              <mxPoint x="644" y="467" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBuPi1NRq2ITQ3zSXP_t-22" value="6. Update e-Reporting Status &lt;br&gt;of AR Invoice(s) / Credit Note(s)&amp;nbsp;&lt;br&gt;to &quot;SNT&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QBuPi1NRq2ITQ3zSXP_t-21">
+          <mxGeometry x="-0.0421" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="10" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
