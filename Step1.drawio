@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T04:48:07.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="VP0sPvx7Rffsw7XbVjS9" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T04:48:24.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="8nJOmVDiBHUFssSHhbEu" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1300" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -160,7 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-101" value="&amp;nbsp;2.Build &quot;SOAP Messages with&amp;nbsp;Attachments&quot;" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="HtMYwvInf2GWWzEo8MSv-10" edge="1">
-          <mxGeometry x="-0.0526" y="115" width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.0229" y="113" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="55" y="883" as="sourcePoint" />
             <mxPoint x="55" y="903" as="targetPoint" />
             <Array as="points">
@@ -171,14 +171,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-105" value="4. Process result, generate&amp;nbsp;Universal Event XML&amp;nbsp;" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="HtMYwvInf2GWWzEo8MSv-10" edge="1">
-          <mxGeometry x="0.0325" y="128" width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.0006" y="128" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="55" y="971.0769230769231" as="sourcePoint" />
             <mxPoint x="55" y="991.0769230769231" as="targetPoint" />
             <Array as="points">
               <mxPoint x="135" y="971" />
               <mxPoint x="135" y="991" />
             </Array>
-            <mxPoint y="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HtMYwvInf2GWWzEo8MSv-12" value="CW1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
